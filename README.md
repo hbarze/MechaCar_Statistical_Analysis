@@ -53,3 +53,36 @@ Lot 2- Lot 2's sample has a very similar result to lot 1, where the sample mean 
 Lot 3- Lot 3's sample has a true sample mean of 1496.14, resulting in a **p-value of 0.04168**. Due to Lot 3's p-value being below the standard significance level of 0.05, we **are able** to reject our null hypothesis that ther is no statistical difference between the observed and presumed sample mean. 
 
 After our t-test statistical analysis, we can confirm that something in Lot 3's production process is awry, and that process needs to be reassessed for suspension coils not meeting quality standards. 
+
+## Deliverable 4- Study Design: MechaCar vs. Coompetition:
+
+####Q1. Write a short description of a statistical study that can quantify how the MechaCar performs against the competition. In your study design, think critically about what metrics would be of interest to a consumer: for a few examples, cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating.
+
+In order to quantify how the MechaCar performs against the competition, I would create the following independent variables: Average MPG, Saftey Feature Rating, Horse Power, and Annual Maintenance Costs. My dependent variable would be the current selling price of the vehicle. 
+
+
+####Q2. In your description, address the following questions:
+What metric or metrics are you going to test?
+What is the null hypothesis or alternative hypothesis?
+What statistical test would you use to test the hypothesis? And why?
+What data is needed to run the statistical test?
+
+**Metrics**
+* Average Miles Per Gallon (MPG) **Independent Variable**
+* Saftey Feature Rating **Independent Variable**
+* Horse Power **Independent Variable**
+* Annual Maintenance Costs **Independent Variable**
+* Current Selling Price (USD) **Dependent Variable**
+
+**Null and Alternative Hypothesis**
+* Null Hypothesis (Ho): MechaCar is correctly priced based upon key industry vehicle features.
+* Alternative Hypothesis (Ha): MechaCar is incorrectly priced based upon key industry vehicle features. 
+
+**Statistical Test of Choice**
+In order to determine which independent variables have the highest correlation with our dependent variable (Current Selling Price), I would use a multiple linerar regression model. We can combine all independent variables, or only use a few to determine which ones have the largest impact on the current selling price of the vehicle. 
+
+**Data Collection**
+Data from a similar category of cars as the MechaCar would need to be collected in the following categories: Fuel efficiency (MPG), Saftey Feature Ratings, Horse Power, Maintenance Costs (on an Annual basis), and the Current Selling Price (USD). It would be best to include as many vehicles that are similar to the MechaCar as possible, and therefore any foreign cars' data may have to be converted to USD for its selling price and annual maintenance costs, and from kilometers/liter to Miles/Gallon. 
+
+
+
