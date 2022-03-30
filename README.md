@@ -79,9 +79,11 @@ What data is needed to run the statistical test?
 * Alternative Hypothesis (Ha): MechaCar is incorrectly priced based upon key industry vehicle features. 
 
 **Statistical Test of Choice**
+
 In order to determine which independent variables have the highest correlation with our dependent variable (Current Selling Price), I would use a multiple linerar regression model. We can combine all independent variables, or only use a few to determine which ones have the largest impact on the current selling price of the vehicle. 
 
 **Data Collection**
+
 Data from a similar category of cars as the MechaCar would need to be collected in the following categories: Fuel efficiency (MPG), Saftey Feature Ratings, Horse Power, Maintenance Costs (on an Annual basis), and the Current Selling Price (USD). It would be best to include as many vehicles that are similar to the MechaCar as possible, and therefore any foreign cars' data may have to be converted to USD for its selling price and annual maintenance costs, and from kilometers/liter to Miles/Gallon. 
 
 
