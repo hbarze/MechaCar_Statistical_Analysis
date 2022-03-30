@@ -56,12 +56,12 @@ After our t-test statistical analysis, we can confirm that something in Lot 3's 
 
 ## Deliverable 4- Study Design: MechaCar vs. Coompetition:
 
-###Q1. Write a short description of a statistical study that can quantify how the MechaCar performs against the competition. In your study design, think critically about what metrics would be of interest to a consumer: for a few examples, cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating.
+#### Q1. Write a short description of a statistical study that can quantify how the MechaCar performs against the competition. In your study design, think critically about what metrics would be of interest to a consumer: for a few examples, cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating.
 
 In order to quantify how the MechaCar performs against the competition, I would create the following independent variables: Average MPG, Saftey Feature Rating, Horse Power, and Annual Maintenance Costs. My dependent variable would be the current selling price of the vehicle. 
 
 
-###Q2. In your description, address the following questions:
+#### Q2. In your description, address the following questions:
 What metric or metrics are you going to test?
 What is the null hypothesis or alternative hypothesis?
 What statistical test would you use to test the hypothesis? And why?
