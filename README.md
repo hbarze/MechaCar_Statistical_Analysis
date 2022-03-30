@@ -2,7 +2,7 @@
  Module 15: Using R and learning statistical tests
 
 
-## Deliverable 1: Linear Regression to Predict MPG:
+## Deliverable 1- Linear Regression to Predict MPG
 
 Statistical Summary:
 <img width="496" alt="Screen Shot 2022-03-29 at 11 56 45 PM" src="https://user-images.githubusercontent.com/96043107/160761348-c21d5de4-d88f-476d-92c6-e19a1d167231.png">
